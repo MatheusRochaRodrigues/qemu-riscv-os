@@ -11,7 +11,7 @@ extern void ola(void);
 void main() {
     //Limpa toda a tela e posiciona cursor.
     // puts(LIMPA_TELA CURSOR_CIMA_ESQUERDA);
-    puts("\u26F0 ROS - Roncador Operating System \U0001F525");
+    puts("\u26F0 EOS - Educational Operating System \U0001F525");
     printlng(4, 2);
     puts("\n");
     int i = 10;
